@@ -124,7 +124,6 @@ export default function App() {
   );
 }
 
-// Contoh data dummy untuk Course component
 const Course = () => {
   return (
     <View>
@@ -133,7 +132,6 @@ const Course = () => {
   );
 };
 
-// Contoh data dummy untuk UserData component
 const UserData = () => {
   return (
     <View>
@@ -142,7 +140,6 @@ const UserData = () => {
   );
 };
 
-// Contoh data dummy untuk About component
 const About = () => {
   return (
     <View>
@@ -151,7 +148,6 @@ const About = () => {
   );
 };
 
-// Contoh data dummy untuk Contact component
 const Contact = () => {
   return (
     <View>
@@ -160,7 +156,6 @@ const Contact = () => {
   );
 };
 
-// Contoh data dummy untuk CourseDetails component
 const CourseDetails = () => {
   return (
     <View>
